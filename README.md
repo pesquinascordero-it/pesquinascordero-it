@@ -63,4 +63,4 @@ Web personal con API propia para el formulario de contacto, tests automatizados 
 
 ## Contacto
 
-[LinkedIn]([https://www.linkedin.com/in/pablo-esquinas-cordero/]) · pesquinascordero.it@gmail.com
+[LinkedIn](https://www.linkedin.com/in/pablo-esquinas-cordero/) · pesquinascordero.it@gmail.com
